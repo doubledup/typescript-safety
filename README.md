@@ -3,8 +3,11 @@
 A short response to things I keep hearing:
 
 "We believe in the value of type-safety, so we use Typescript to make our code type-safe!"
+
 "Just enable strict mode, with no-implicit-any."
+
 "Also add @typescript-eslint's strict rules, espcecially no-explicit-any."
+
 "And don't forget to check for unhandled runtime exceptions."
 
 ("Then manually check for any in the return type of every dependency, I guess.")
